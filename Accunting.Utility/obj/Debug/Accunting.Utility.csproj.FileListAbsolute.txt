@@ -1,0 +1,11 @@
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.Utility\bin\Debug\Accunting.Utility.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.Utility\bin\Debug\Accunting.Utility.pdb
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.Utility\obj\Debug\Accunting.Utility.csproj.CoreCompileInputs.cache
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.Utility\obj\Debug\Accunting.Utility.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.Utility\obj\Debug\Accunting.Utility.pdb
+F:\نمونه کار\ACCUNTING.APP\Accunting.Utility\bin\Debug\Accunting.Utility.dll
+F:\نمونه کار\ACCUNTING.APP\Accunting.Utility\bin\Debug\Accunting.Utility.pdb
+F:\نمونه کار\ACCUNTING.APP\Accunting.Utility\obj\Debug\Accunting.Utility.csprojAssemblyReference.cache
+F:\نمونه کار\ACCUNTING.APP\Accunting.Utility\obj\Debug\Accunting.Utility.csproj.CoreCompileInputs.cache
+F:\نمونه کار\ACCUNTING.APP\Accunting.Utility\obj\Debug\Accunting.Utility.dll
+F:\نمونه کار\ACCUNTING.APP\Accunting.Utility\obj\Debug\Accunting.Utility.pdb

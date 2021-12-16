@@ -1,0 +1,12 @@
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.ViewModel\bin\Debug\Accunting.ViewModel.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.ViewModel\bin\Debug\Accunting.ViewModel.pdb
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.ViewModel\obj\Debug\Accunting.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.ViewModel\obj\Debug\Accunting.ViewModel.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.ViewModel\obj\Debug\Accunting.ViewModel.pdb
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.ViewModel\obj\Debug\Accunting.ViewModel.csprojAssemblyReference.cache
+F:\نمونه کار\ACCUNTING.APP\Accunting.ViewModel\bin\Debug\Accunting.ViewModel.dll
+F:\نمونه کار\ACCUNTING.APP\Accunting.ViewModel\bin\Debug\Accunting.ViewModel.pdb
+F:\نمونه کار\ACCUNTING.APP\Accunting.ViewModel\obj\Debug\Accunting.ViewModel.csprojAssemblyReference.cache
+F:\نمونه کار\ACCUNTING.APP\Accunting.ViewModel\obj\Debug\Accunting.ViewModel.csproj.CoreCompileInputs.cache
+F:\نمونه کار\ACCUNTING.APP\Accunting.ViewModel\obj\Debug\Accunting.ViewModel.dll
+F:\نمونه کار\ACCUNTING.APP\Accunting.ViewModel\obj\Debug\Accunting.ViewModel.pdb

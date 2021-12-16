@@ -1,0 +1,68 @@
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\ACCUNTING.exe.config
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\ACCUNTING.exe
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\ACCUNTING.pdb
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.csprojAssemblyReference.cache
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.Form1.resources
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.Properties.Resources.resources
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.csproj.GenerateResource.cache
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.csproj.CoreCompileInputs.cache
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.exe
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.pdb
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.AccuntingForms.FrmNewAccunting.resources
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.AccuntingForms.FrmReport.resources
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.CustomersForms.FrmAddOrEdite.resources
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.CustomersForms.FrmCustomers.resources
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.FrmLogin.resources
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\Accunting.DataLayer.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\Accunting.Utility.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\Accunting.ViewModel.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\EntityFramework.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\Accunting.DataLayer.pdb
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\Accunting.DataLayer.dll.config
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\Accunting.Utility.pdb
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\Accunting.ViewModel.pdb
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\EntityFramework.xml
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.csproj.CopyComplete
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\Stimulsoft.Base.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\Stimulsoft.Report.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\Stimulsoft.Base.xml
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\Stimulsoft.Report.xml
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\Stimulsoft.Controls.Win.xml
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\Stimulsoft.Report.Win.xml
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\Accounting.Besenes.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\ACCUNTING\bin\Debug\Accounting.Besenes.pdb
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\bin\Debug\ACCUNTING.exe.config
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\bin\Debug\ACCUNTING.exe
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\bin\Debug\ACCUNTING.pdb
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\bin\Debug\Accounting.Besenes.dll
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\bin\Debug\Accunting.DataLayer.dll
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\bin\Debug\Accunting.Utility.dll
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\bin\Debug\Accunting.ViewModel.dll
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\bin\Debug\EntityFramework.dll
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\bin\Debug\EntityFramework.SqlServer.dll
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\bin\Debug\Accounting.Besenes.pdb
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\bin\Debug\Accunting.DataLayer.pdb
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\bin\Debug\Accunting.DataLayer.dll.config
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\bin\Debug\Accunting.Utility.pdb
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\bin\Debug\Accunting.ViewModel.pdb
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\bin\Debug\EntityFramework.xml
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\bin\Debug\EntityFramework.SqlServer.xml
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.csprojAssemblyReference.cache
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.AccuntingForms.FrmNewAccunting.resources
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.AccuntingForms.FrmReport.resources
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.CustomersForms.FrmAddOrEdite.resources
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.CustomersForms.FrmCustomers.resources
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.Form1.resources
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.FrmLogin.resources
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.Properties.Resources.resources
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.csproj.GenerateResource.cache
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.csproj.CoreCompileInputs.cache
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.csproj.CopyComplete
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.exe
+F:\نمونه کار\ACCUNTING.APP\ACCUNTING\obj\Debug\ACCUNTING.pdb

@@ -1,0 +1,32 @@
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.DataLayer\obj\Debug\Accunting.DataLayer.csprojAssemblyReference.cache
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.DataLayer\obj\Debug\Accunting.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\Accunting.DataLayer.dll.config
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\Accunting.DataLayer.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\Accunting.DataLayer.pdb
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\Accunting.ViewModel.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\Accunting.ViewModel.pdb
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.DataLayer\obj\Debug\Accunting.DataLayer.csproj.CopyComplete
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.DataLayer\obj\Debug\Accunting.DataLayer.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.DataLayer\obj\Debug\Accunting.DataLayer.pdb
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\Stimulsoft.Report.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\Stimulsoft.Base.dll
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\Stimulsoft.Report.xml
+C:\Users\RAMIN\source\repos\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\Stimulsoft.Base.xml
+F:\نمونه کار\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\Accunting.DataLayer.dll.config
+F:\نمونه کار\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\Accunting.DataLayer.dll
+F:\نمونه کار\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\Accunting.DataLayer.pdb
+F:\نمونه کار\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\Accunting.ViewModel.dll
+F:\نمونه کار\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\EntityFramework.dll
+F:\نمونه کار\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+F:\نمونه کار\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\Accunting.ViewModel.pdb
+F:\نمونه کار\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\EntityFramework.xml
+F:\نمونه کار\ACCUNTING.APP\Accunting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+F:\نمونه کار\ACCUNTING.APP\Accunting.DataLayer\obj\Debug\Accunting.DataLayer.csprojAssemblyReference.cache
+F:\نمونه کار\ACCUNTING.APP\Accunting.DataLayer\obj\Debug\Accunting.DataLayer.csproj.CoreCompileInputs.cache
+F:\نمونه کار\ACCUNTING.APP\Accunting.DataLayer\obj\Debug\Accunting.DataLayer.csproj.CopyComplete
+F:\نمونه کار\ACCUNTING.APP\Accunting.DataLayer\obj\Debug\Accunting.DataLayer.dll
+F:\نمونه کار\ACCUNTING.APP\Accunting.DataLayer\obj\Debug\Accunting.DataLayer.pdb

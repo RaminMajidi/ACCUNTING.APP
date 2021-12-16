@@ -1,0 +1,5 @@
+F:\نمونه کار\ACCUNTING.APP\Accunting.Utility\bin\Debug\Accunting.Utility.dll
+F:\نمونه کار\ACCUNTING.APP\Accunting.Utility\bin\Debug\Accunting.Utility.pdb
+F:\نمونه کار\ACCUNTING.APP\Accunting.Utility\obj\Debug\MYSHOP.Utility.csproj.CoreCompileInputs.cache
+F:\نمونه کار\ACCUNTING.APP\Accunting.Utility\obj\Debug\Accunting.Utility.dll
+F:\نمونه کار\ACCUNTING.APP\Accunting.Utility\obj\Debug\Accunting.Utility.pdb
